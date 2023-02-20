@@ -242,3 +242,9 @@ The analysis was conducted using SQL queries, and visualizations were created us
 The analysis also showed that the state of Texas was the least profitable, and it was noted that the company may want to investigate this further to understand the reasons behind this. Other key takeaways from the analysis included the importance of understanding which products and customer segments are generating the most revenue and profits, as well as the importance of analyzing data at a granular level, such as by subcategory or region.
 
 Overall, the Superstore dataset provided valuable insights into the company's sales and profits, and the analysis can be used to inform strategic decisions and optimize business performance.
+
+## Some quick tableau vizzes: 
+
+![Dashboard 1](https://user-images.githubusercontent.com/125606674/220209707-cb71b806-debf-490e-bcf8-b989b5b91eab.png)
+
+![Viz2](https://user-images.githubusercontent.com/125606674/220209802-f87ff38e-b959-4a27-b021-c4fb399a9024.png)
